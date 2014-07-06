@@ -4,4 +4,4 @@ A speed reading mode for Emacs.
 
 The algorithm is inspired from [[https://github.com/Miserlou/OpenSpritz][OpenSpritz]].
 
-*THIS PROJECT IS MOVED TO [[http://github.com/ian-kelling/]].*
+*THIS PROJECT IS MOVED TO [[http://github.com/ian-kelling/spray/]].*
